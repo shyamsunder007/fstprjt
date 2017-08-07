@@ -1,0 +1,2 @@
+# fstprjt
+django first project
